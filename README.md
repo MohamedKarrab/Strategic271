@@ -1,8 +1,8 @@
 # Hello World! 🌍
 
-#### I am **Mohamed Karrab** a student at Insat 😄. I am passionate about problem solving and creating brilliant solutions. ⚡
+#### I am **Mohamed Karrab** a student at Insat 😄. I am passionate about problem solving and creating efficient solutions. ⚡
 
-- 🔭 I’m currently working on **GUI** and **Game Development**🎯
-- I am looking forward to learning some **JavaScript** and testing out my luck in **Web Development** 💻 
+- 🔭 I’m currently working on **Competitive Programming** and **Cyber Security**🎯
+- I am looking forward to improving my knwowledge and skills in **Cloud Computing** and  **Reverse Engineering** 💻 
 - I love reading books 📚, especially on **Finance** and **Personal Development** 
 
